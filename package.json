@@ -1,0 +1,16 @@
+{
+  "name": "gerenciador-de-produtos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gerenciador-de-produtos": "file:"
+  }
+}
